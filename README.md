@@ -1,5 +1,5 @@
 # Object-Oriented Programming
-# C++ 언어 (객체지향) 공부 기록
+## C++ 언어 (객체지향) 공부 기록
 [ Upload ~ ing / 계속 업로드 예정 ]
 
 

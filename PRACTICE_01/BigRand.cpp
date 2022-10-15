@@ -1,6 +1,6 @@
 #include "BigRand.h"
 
-// ³­¼ö ¹ß»ı
+// ë‚œìˆ˜ ë°œìƒ
 int* genBigRandArray(int bigRandArraySize, int offset)
 {
 	int* pBigRandArray;
@@ -8,14 +8,14 @@ int* genBigRandArray(int bigRandArraySize, int offset)
 	int temp;
 	pBigRandArray = (int*)calloc(bigRandArraySize, sizeof(int));
 	
-	// °ªÀ» ¸ğµÎ ³Ö¾îÁØ´Ù.
+	// ê°’ì„ ëª¨ë‘ ë„£ì–´ì¤€ë‹¤.
 	for (int i = 0; i < bigRandArraySize; i++)
 	{
 		pBigRandArray[i] = i + offset;
-	}
+	} 
 	
-	// INDEX¸¦ »ı¼ºÇØ¼­ ¼¯¾îÁØ´Ù.
-	// 15ºñÆ® ¹Ğ¾î³»¼­ 32767º¸´Ù Å©°Ô »ı¼º½ÃÄÑÁØ´Ù.
+	// INDEXë¥¼ ìƒì„±í•´ì„œ ì„ì–´ì¤€ë‹¤.
+	// 15ë¹„íŠ¸ ë°€ì–´ë‚´ì„œ 32767ë³´ë‹¤ í¬ê²Œ ìƒì„±ì‹œì¼œì¤€ë‹¤.
 	for (int i = 0; i < bigRandArraySize; i++)
 	{
 		idx1 = (((long)rand() << 15) | rand()) % bigRandArraySize; 
@@ -35,7 +35,7 @@ int* genBigRandArray(int bigRandArraySize, int offset)
 }
 
 
-// ³­¼ö Ãâ·Â
+// ë‚œìˆ˜ ì¶œë ¥
 void fPrintBigRandArray(ofstream& fout, int* bigRand, int num_rands)
 {
 	int count = 0;
@@ -67,7 +67,7 @@ void fPrintBigRandArray(ofstream& fout, int* bigRand, int num_rands)
 		{
 			for (int j = 0; j < LINESIZE; j++)
 			{
-				fout << setw(7) << bigRand[count];	//Ãâ·Â
+				fout << setw(7) << bigRand[count];	//ì¶œë ¥
 				count++;
 			}
 			fout << endl;

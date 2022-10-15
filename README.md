@@ -13,7 +13,7 @@
 
 <br/><br/>
  << 내 용 >>
- - PRACTICE_01 : Randomize, Sorting, Binary Search // 난수(학생정보)를 생성하여, 정렬 + 이진탐색
+ - PRACTICE_01 : Randomize, Sorting, Binary Search // ( 난수(학생정보)를 생성하여, 정렬 + 이진탐색 )
  - PRACTICE_02 : 
  - PRACTICE_03 :    
  - PRACTICE_04 : 

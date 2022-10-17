@@ -17,6 +17,8 @@
  - PRACTICE_02 : File Input and Data Statistics Analysis // ( 파일 입력 및 데이터 통계 분석 )
  - PRACTICE_03 :    
  - PRACTICE_04 : 
+ - PRACTICE_05 :    
+ - PRACTICE_06 : 
 
 
 

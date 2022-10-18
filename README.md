@@ -15,7 +15,7 @@
  << 내 용 >>
  - PRACTICE_01 : Randomize, Sorting, Binary Search // ( 난수(학생정보)를 생성하여, 정렬 + 이진탐색 )
  - PRACTICE_02 : File Input and Data Statistics Analysis // ( 파일 입력 및 데이터 통계 분석 )
- - PRACTICE_03 :    
+ - PRACTICE_03 : Number Print ( octal/decimal/hexadecimal/binary ) // ( 1~32 진수별 출력 )
  - PRACTICE_04 : 
  - PRACTICE_05 :    
  - PRACTICE_06 : 

@@ -17,9 +17,7 @@
  - PRACTICE_02 : File Input and Data Statistics Analysis // ( 파일 입력 및 데이터 통계 분석 )
  - PRACTICE_03 : Number Print ( octal/decimal/hexadecimal/binary ) // ( 1~32 진수별 출력 )
  - PRACTICE_04 : 
- - PRACTICE_05 :    
- - PRACTICE_06 : 
- - PRACTICE_07 : 
+ - PRACTICE_05 : 
 
 
 

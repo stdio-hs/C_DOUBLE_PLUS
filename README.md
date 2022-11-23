@@ -18,6 +18,7 @@
  - PRACTICE_03 : Number Print ( octal/decimal/hexadecimal/binary ) // ( 1~32 진수별 출력 )
  - PRACTICE_04 : Print Paragraph ( Date ) // ( 문단 출력 _ 날짜 )
  - PRACTICE_05 : 
+ - PRACTICE_06 : 
 
 
 
